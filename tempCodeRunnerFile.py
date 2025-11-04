@@ -1,0 +1,1 @@
+Erro quadrático médio durante o treinamento
