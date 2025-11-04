@@ -42,6 +42,3 @@ O que observar
 Estrutura do repositório
 - main.py — implementação da rede e script de execução. ([main.py](main.py))
 - import numpy as np.txt — arquivo sobrando no repositório que pode ser removido. ([import numpy as np.txt](import numpy as np.txt))
-
-Licença
-- MIT
